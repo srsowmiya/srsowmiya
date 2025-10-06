@@ -83,7 +83,25 @@
   <li> Built multiple full-stack projects using React + Firebase + Spring Boot.</li>
 </ul>
 
----
+<h2>🚀 Featured Projects</h2>
+<ul>
+    <li>
+        <b><a href="https://github.com/srsowmiya/auction-platform" target="_blank">Auction Platform</a></b>
+        <p>An online bidding system built using Spring Boot and React.</p>
+    </li>
+    <li>
+        <b><a href="https://github.com/srsowmiya/netflix-clone" target="_blank">Netflix Clone</a></b>
+        <p>A responsive UI clone of the popular streaming service using React.</p>
+    </li>
+    <li>
+        <b><a href="https://github.com/srsowmiya/quiz-application" target="_blank">Quiz Application</a></b>
+        <p>An interactive quiz app with real-time scoring and timers.</p>
+    </li>
+    <li>
+        <b><a href="https://github.com/srsowmiya/hospital-management-system" target="_blank">Hospital Management System</a></b>
+        <p>A system for managing patient records and appointments efficiently.</p>
+    </li>
+</ul>
 
 <!-- GitHub Stats (4 Cards) -->
 <h2 align="center">📊 GitHub Stats</h2>
