@@ -45,8 +45,6 @@
 ---
 
 <!-- Languages and Tools -->
-<h2 align="left">🧠 Languages and Tools:</h2>
-
 <h3><strong>🟩 Programming Languages:</strong></h3>
 <p align="left">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
