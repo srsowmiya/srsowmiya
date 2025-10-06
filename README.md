@@ -102,6 +102,10 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=srsowmiya&bg_color=1a1b27&color=70A4FC&line=70A4FC&point=FFFFFF&area=true&hide_border=true" height="300" alt="Contribution Graph" />
 </p>
 
+<p align="center">
+  <img src="./codolio heatmap.jpg" alt="Codolio Heatmap" />
+</p>
+
 ---
 
 <!-- Connect Section -->
