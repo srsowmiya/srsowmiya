@@ -12,7 +12,15 @@
 <h4 align="center">
   I am deeply focused on Data Structures and Algorithms (DSA) and problem-solving. I actively participate in coding contests and competitive programming platforms like Codeforces, CodeChef, HackerRank, and LeetCode to sharpen my algorithmic thinking.
 </h4>
-
+ <h2 id="learning">Currently Learning</h2>
+      <ul>
+        <li> <strong>Spring Boot</strong> — building REST APIs and microservices.</li>
+        <li><strong>React.js</strong> — advanced hooks, patterns, and state management.</li>
+        <li><strong>System Design</strong> & API design for scalable apps.</li>
+        <li>Database management (MySQL, Firebase) & performance optimizations.</li>
+        <li>Competitive problem-solving strategies (graphs, DP, greedy, trees).</li>
+      </ul>
+  </h2>
 
 
 ---
