@@ -83,7 +83,7 @@
   <li> Built multiple full-stack projects using React + Firebase + Spring Boot.</li>
 </ul>
 
-<h2>🚀 Featured Projects</h2>
+<h2>Featured Projects</h2>
 <ul>
     <li>
         <b><a href="https://github.com/srsowmiya/auction-platform" target="_blank">Auction Platform</a></b>
