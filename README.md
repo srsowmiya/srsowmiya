@@ -1,114 +1,127 @@
-<!-- Name -->
-<h1 align="center"><b>Hi, I'm Sowmiya </b></h1>
+<!-- Header Section -->
+<h1 align="center">Hi, I'm <b>Sowmiya Sundaram</b></h1>
 
-<!-- Animated roles using readme-typing-svg -->
+<!-- Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00C0FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;DSA+Enthusiast;Competitive+Programmer;Problem+Solver" alt="Typing Animation" />
+</p>
 
-
-<!-- Bio -->
-<h4 align="center">
-  A passionate Full Stack Developer and a 3rd-year CSBS student. I have a strong interest in building web applications and desktop applications, and I continuously strive to enhance my coding skills through hands-on projects.
-</h4>
-
-<h4 align="center">
-  I am deeply focused on Data Structures and Algorithms (DSA) and problem-solving. I actively participate in coding contests and competitive programming platforms like Codeforces, CodeChef, HackerRank, and LeetCode to sharpen my algorithmic thinking.
-</h4>
- <h2 id="learning">Currently Learning</h2>
-      <ul>
-        <li> <strong>Spring Boot</strong> — building REST APIs and microservices.</li>
-        <li><strong>React.js</strong> — advanced hooks, patterns, and state management.</li>
-        <li><strong>System Design</strong> & API design for scalable apps.</li>
-        <li>Database management (MySQL, Firebase) & performance optimizations.</li>
-        <li>Competitive problem-solving strategies (graphs, DP, greedy, trees).</li>
-      </ul>
-  </h2>
-
+<!-- About Me -->
+<h3 align="center">
+  A passionate Full Stack Developer and 3rd-year CSBS student who loves building scalable web and mobile applications.  
+  I enjoy solving DSA problems, exploring new technologies, and improving my problem-solving skills daily!
+</h3>
 
 ---
 
-<!-- Connect -->
-<h2 align="left">🌐 Connect with me:</h2>
+<!-- Tech Stack -->
+<h2 align="center"> Tech Stack</h2>
+
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <h3>💻 Frontend</h3>
+      <p>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50"/>
+        <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="50" height="50"/>
+      </p>
+    </td>
+    <td align="center" width="50%">
+      <h3>⚙️ Backend</h3>
+      <p>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="50" height="50"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50"/>
+        <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="50" height="50"/>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <h3>🗄️ Databases</h3>
+      <p>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50" height="50"/>
+        <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="50" height="50"/>
+      </p>
+    </td>
+    <td align="center" width="50%">
+      <h3>🧰 Tools & Platforms</h3>
+      <p>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" height="50"/>
+        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="50" height="50"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" width="50" height="50"/>
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+<!-- Currently Learning -->
+<h2> Currently Learning</h2>
+<ul>
+  <li>Advanced <b>Spring Boot</b> and RESTful APIs for scalable applications.</li>
+  <li><b>React Hooks</b>, Context API, and component design patterns.</li>
+  <li><b>System Design</b> fundamentals and scalable architecture concepts.</li>
+  <li><b>MySQL</b> performance tuning and optimization.</li>
+  <li>Solving DSA problems on <b>LeetCode</b> and <b>CodeChef</b> consistently.</li>
+</ul>
+
+---
+
+<!-- Achievements -->
+<h2> Achievements</h2>
+<ul>
+  <li> Solved <b>150+ DSA problems</b> .</li>
+  <li> Maintained a strong <b>GitHub streak</b> with daily contributions.</li>
+  <li> Built multiple full-stack projects using React + Firebase + Spring Boot.</li>
+</ul>
+
+---
+
+<!-- GitHub Stats (4 Cards) -->
+<h2 align="center">📊 GitHub Stats</h2>
+
+<p align="center">
+  <!-- General GitHub stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=srsowmiya&show_icons=true&theme=tokyonight" height="170" />
+  <!-- GitHub streak stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=srsowmiya&theme=tokyonight" height="170" />
+</p>
+
+<p align="center">
+  <!-- Most used languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srsowmiya&layout=compact&theme=tokyonight" height="170" />
+  <!-- Contribution heatmap -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=srsowmiya&bg_color=1a1b27&color=70A4FC&line=70A4FC&point=FFFFFF&area=true&hide_border=true" height="300" alt="Contribution Graph" />
+</p>
+
+---
+
+<!-- Connect Section -->
+<h2>🌐 Connect with me:</h2>
 <p align="left">
   <a href="https://linkedin.com/in/sowmiyasundaram" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="35" width="45" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://www.codechef.com/users/sowmiyasr" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="CodeChef" height="35" width="45" />
+  <a href="https://leetcode.com/u/sowmiya/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-F89F1B?style=for-the-badge&logo=LeetCode&logoColor=white" />
   </a>
-  <a href="https://codeforces.com/profile/sowmiya_sr" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" height="35" width="45" />
+  <a href="https://www.codechef.com/users/sowmiya" target="_blank">
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white" />
   </a>
-  <a href="https://leetcode.com/user6500jp" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="35" width="45" />
-  </a>
-</p>
-
----
-
-<!-- Languages and Tools -->
-<h3><strong>🟩 Programming Languages:</strong></h3>
-<p align="left">
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="50" height="50"/>
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="50" height="50"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
-  </a>
-</p>
-
-<h3><strong>🎨 Frontend:</strong></h3>
-<p align="left">
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="50" height="50"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="50" height="50"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="50" height="50"/>
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind" width="50" height="50"/>
-  </a>
-</p>
-
-<h3><strong>⚙️ Backend:</strong></h3>
-<p align="left">
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="50" height="50"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="50" height="50"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="50" height="50"/>
-  </a>
-</p>
-
-<h3><strong>🧰 Tools & Platforms:</strong></h3>
-<p align="left">
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="50" height="50"/>
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="50" height="50"/>
+  <a href="https://github.com/srsowmiya" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
 ---
 
-<!-- GitHub Stats -->
-<h2 align="left">📊 GitHub Stats:</h2>
-
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=srsowmiya&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=srsowmiya&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=srsowmiya&theme=radical" alt="GitHub Streak" /></p>
+<!-- Footer -->
+<p align="center">✨ Thanks for visiting my profile! Keep coding and exploring 💻</p>
