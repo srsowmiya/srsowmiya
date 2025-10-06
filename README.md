@@ -1,3 +1,61 @@
+<!-- Name in bold -->
+<h1 align="center"><b>Hi, I'm Sowmiya</b></h1>
+
+<!-- Animated roles -->
+<h3 align="center">
+  <span id="animated-text"></span>
+</h3>
+
+<script>
+const texts = ["Fullstack Developer", "DSA Enthusiast", "Problem Solver"];
+let count = 0;
+let index = 0;
+let currentText = '';
+let letter = '';
+(function type(){
+  if(count === texts.length) count = 0;
+  currentText = texts[count];
+  letter = currentText.slice(0, ++index);
+  document.getElementById('animated-text').textContent = letter;
+  if(letter.length === currentText.length){
+    count++;
+    index = 0;
+    setTimeout(type, 1000);
+  } else {
+    setTimeout(type, 200);
+  }
+})();
+</script>
+
+<!-- Bio -->
+<h3 align="center">
+  A passionate Full Stack Developer and a 3rd-year CSBS student. I have a strong interest in building web applications and desktop applications, and I continuously strive to enhance my coding skills through hands-on projects.
+</h3>
+<h3 align="center">
+  I am deeply focused on Data Structures and Algorithms (DSA) and problem-solving. I actively participate in coding contests and competitive programming platforms like Codeforces, CodeChef, HackerRank, and LeetCode to sharpen my algorithmic thinking.
+</h3>
+<h3 align="center">
+  I am driven by curiosity, persistence, and a desire to grow as a developer. My ultimate goal is to master full-stack development and problem-solving, contributing to innovative projects and building efficient solutions.
+</h3>
+
+<!-- Connect -->
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://linkedin.com/in/sowmiyasundaram" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sowmiyasundaram" height="30" width="40" />
+  </a>
+  <a href="https://www.codechef.com/users/sowmiyasr" target="_blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="sowmiyasr" height="30" width="40" />
+  </a>
+  <a href="https://codeforces.com/profile/sowmiya_sr" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="sowmiya_sr" height="30" width="40" />
+  </a>
+  <a href="https://www.leetcode.com/user6500jp" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="user6500jp" height="30" width="40" />
+  </a>
+</p>
+
+<!-- Languages and Tools -->
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="left">
@@ -54,3 +112,12 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
   </a>
 </p>
+
+<!-- GitHub Stats -->
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=srsowmiya&show_icons=true&locale=en&layout=compact" alt="srsowmiya" />
+</p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=srsowmiya&show_icons=true&locale=en" alt="srsowmiya" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=srsowmiya&" alt="srsowmiya" /></p>
