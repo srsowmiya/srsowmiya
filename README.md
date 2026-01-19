@@ -1,5 +1,9 @@
 <!-- Header Section -->
-<h1 align="center">Hi, I'm <b>Sowmiya Sundaram</b></h1>
+<p align="center">
+  <img src="Banner.jpeg" alt="Profile Banner" />
+</p>
+
+<!-- Header Section -->
 
 <!-- Typing Animation -->
 <p align="center">
@@ -84,24 +88,39 @@
 </ul>
 
 <h2>Featured Projects</h2>
+
 <ul>
     <li>
-        <b><a href="https://github.com/srsowmiya/auction-platform" target="_blank">Auction Platform</a></b>
-        <p>An online bidding system built using Spring Boot and React.</p>
+        <b><a href="https://github.com/srsowmiya/netflix-clone" target="_blank">
+        Netflix Clone with AI-Based Mood Recommender</a></b>
+        <p>
+        A streaming platform clone enhanced with an AI-based mood detection system to recommend movies and series based on user emotions.
+        </p>
     </li>
     <li>
-        <b><a href="https://github.com/srsowmiya/netflix-clone" target="_blank">Netflix Clone</a></b>
-        <p>A responsive UI clone of the popular streaming service using React.</p>
+        <b><a href="https://github.com/srsowmiya/URLShortener" target="_blank">
+        URL Shortener</a></b>
+        <p>
+        A backend-driven URL shortening service built using Node.js and MongoDB with redirection and link management features.
+        </p>
     </li>
     <li>
-        <b><a href="https://github.com/srsowmiya/quiz-application" target="_blank">Quiz Application</a></b>
-        <p>An interactive quiz app with real-time scoring and timers.</p>
+        <b><a href="https://github.com/srsowmiya/hospital-management-system" target="_blank">
+        Hospital Management System</a></b>
+        <p>
+        A system for managing patient records and appointments efficiently.
+        </p>
     </li>
     <li>
-        <b><a href="https://github.com/srsowmiya/hospital-management-system" target="_blank">Hospital Management System</a></b>
-        <p>A system for managing patient records and appointments efficiently.</p>
+        <b><a href="https://github.com/srsowmiya/auction-platform" target="_blank">
+        Auction Platform</a></b>
+        <p>
+        An online bidding system built using Spring Boot and React with real-time bidding and winner selection.
+        </p>
     </li>
 </ul>
+
+
 
 <!-- GitHub Stats -->
 <h2 align="center">📊 GitHub Stats</h2>
