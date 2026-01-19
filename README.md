@@ -1,6 +1,6 @@
 <!-- Header Section -->
 <p align="center">
-  <img src="Banner.jpeg" alt="Profile Banner" />
+  <img src="Banner1.jpeg" alt="Profile Banner" />
 </p>
 
 <!-- Header Section -->
