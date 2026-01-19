@@ -78,7 +78,7 @@
 <!-- Achievements -->
 <h2> Achievements</h2>
 <ul>
-  <li> Solved <b>150+ DSA problems</b> .</li>
+  <li> Solved <b>150+ DSA problems</b>.</li>
   <li> Maintained a strong <b>GitHub streak</b> with daily contributions.</li>
   <li> Built multiple full-stack projects using React + Firebase + Spring Boot.</li>
 </ul>
@@ -103,25 +103,19 @@
     </li>
 </ul>
 
-<!-- GitHub Stats (4 Cards) -->
+<!-- GitHub Stats -->
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <!-- General GitHub stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=srsowmiya&show_icons=true&theme=tokyonight" height="170" />
-  <!-- GitHub streak stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=srsowmiya&theme=tokyonight" height="170" />
-</p>
-
-<p align="center">
-  <!-- Most used languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srsowmiya&layout=compact&theme=tokyonight" height="170" />
-  <!-- Contribution heatmap -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=srsowmiya&bg_color=1a1b27&color=70A4FC&line=70A4FC&point=FFFFFF&area=true&hide_border=true" height="300" alt="Contribution Graph" />
 </p>
 
+
+
+<!-- LeetCode Stats -->
 <p align="center">
-  <img src="./codolio heatmap.jpg" alt="Codolio Heatmap" />
+ <img src="https://leetcard.jacoblin.cool/sowmiyasr?theme=dark&font=Karma" />
 </p>
 
 ---
