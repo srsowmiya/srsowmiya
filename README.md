@@ -12,7 +12,7 @@
 
 <!-- About Me -->
 <h3 align="center">
-  A passionate Full Stack Developer and 3rd-year CSBS student who loves building scalable web and mobile applications.  
+  A passionate Full Stack Developer and Final year CSBS student who loves building scalable web and mobile applications.  
   I enjoy solving DSA problems, exploring new technologies, and improving my problem-solving skills daily!
 </h3>
 
